@@ -1,0 +1,48 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "ArtGallery",
+  "name": "Nina Carducci",
+  "url": "https://nina-carducci.github.io/",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "68 avenue Alsace-Lorraine, 33200 Bordeaux",
+    "addressLocality": "Bordeaux",
+    "addressRegion": "Alsace-Lorraine",
+    "postalCode": "33200",
+    "addressCountry": "France"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "44.831234",
+    "longitude": "-0.584866"
+  },
+  "openingHours": "Mo, Tu, We, Th, Fr 10:00-19:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+33556677889"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
